@@ -1,0 +1,13 @@
+.fragment {
+    display: flex;
+    justify-content: space-around;
+}
+
+.dtPicker {
+    display: flex;
+    flex-direction: column;
+    width: 300px;
+}
+.dtPicker span{
+    color: red;
+}
